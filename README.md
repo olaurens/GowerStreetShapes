@@ -1,6 +1,6 @@
 # GowerStreetShapes
 
-Welcome to the Gower Street Shapes repository. Here you can find all of the codes I made to study Dark Matter halos shape and intrinsic alignment from Gower Street simulations outputs (FOF Outputs).
+Welcome to the Gower Street Shapes repository. Here you can find all of the codes made to study Dark Matter halos shape and intrinsic alignment from Gower Street simulations outputs (FOF Outputs).
 
 **Contact :** _oriane.laurens.26[at]ucl.ac.uk_
 
